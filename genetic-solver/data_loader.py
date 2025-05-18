@@ -101,6 +101,15 @@ def parse_data(data: dict) -> tuple[list[Restaurant], list[Person]]:
     """
     restaurants = [parse_restaurant(item) for item in data["restaurants"]]
     people = [parse_person(item) for item in data["people"]]
+
+    restaurant_ids = {restaurant.id for restaurant in restaurants}
+    if len(restaurant_ids) != len(restaurants):
+        raise ValueError("Duplicate restaurant IDs found.")
+
+    person_ids = {person.id for person in people}
+    if len(person_ids) != len(people):
+        raise ValueError("Duplicate person IDs found.")
+
     return restaurants, people
 
 
