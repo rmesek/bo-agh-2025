@@ -81,6 +81,8 @@ class Restaurant:
 
     def traffic(self, time: Time) -> float:
         """Get traffic intensity closest to the given time."""
+        if not self.traffic_pattern:
+            return 0.0
         idx = bisect(self.traffic_pattern, (time, 0))
         if idx == 0:
             return self.traffic_pattern[0][1]
