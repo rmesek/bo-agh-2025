@@ -1,0 +1,213 @@
+{
+  "restaurants": [
+    {
+      "name": "Pizza n Pasta",
+      "location": [
+        50.0638060546746,
+        19.939380133981302
+      ],
+      "cuisineType": "Italian",
+      "averagePrice": 40,
+      "rating": 5,
+      "openingHours": [
+        "12:00",
+        "2:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 10
+        },
+        {
+          "hour": 13,
+          "minute": 0,
+          "value": 20
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 30
+        },
+        {
+          "hour": 15,
+          "minute": 0,
+          "value": 70
+        },
+        {
+          "hour": 15,
+          "minute": 30,
+          "value": 70
+        },
+        {
+          "hour": 16,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 17,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 40
+        },
+        {
+          "hour": 19,
+          "minute": 0,
+          "value": 40
+        },
+        {
+          "hour": 20,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 21,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 22,
+          "minute": 0,
+          "value": 60
+        },
+        {
+          "hour": 23,
+          "minute": 0,
+          "value": 40
+        },
+        {
+          "hour": 0,
+          "minute": 0,
+          "value": 70
+        },
+        {
+          "hour": 1,
+          "minute": 0,
+          "value": 40
+        },
+        {
+          "hour": 1,
+          "minute": 30,
+          "value": 40
+        },
+        {
+          "hour": 2,
+          "minute": 0,
+          "value": 20
+        }
+      ],
+      "_id": "rskqdrf7x"
+    },
+    {
+      "name": "Stołówka Nawojka",
+      "location": [
+        50.06953586780176,
+        19.910372068582447
+      ],
+      "cuisineType": "Polish",
+      "averagePrice": 10,
+      "rating": 4,
+      "openingHours": [
+        "10:00",
+        "18:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 10,
+          "minute": 0,
+          "value": 20
+        },
+        {
+          "hour": 11,
+          "minute": 0,
+          "value": 30
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 13,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 15,
+          "minute": 0,
+          "value": 70
+        },
+        {
+          "hour": 16,
+          "minute": 0,
+          "value": 50
+        },
+        {
+          "hour": 17,
+          "minute": 0,
+          "value": 40
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 20
+        }
+      ],
+      "_id": "i7hzmnb06"
+    }
+  ],
+  "people": [
+    {
+      "_id": "qfx26llnq",
+      "name": "Andrzej",
+      "location": [
+        50.07311665341498,
+        19.928910455618635
+      ],
+      "budget": 50,
+      "preferredCuisines": [
+        "Polish",
+        "Italian"
+      ],
+      "restrictedRestaurants": [],
+      "availableTimeRange": [
+        "14:00",
+        "17:00"
+      ],
+      "distances": {
+        "rskqdrf7x": 0.01401076064751781,
+        "i7hzmnb06": 0.01888104392006182
+      }
+    },
+    {
+      "_id": "mlvcktaoc",
+      "name": "Jakub",
+      "location": [
+        50.06105109317277,
+        19.926333384785504
+      ],
+      "budget": 40,
+      "preferredCuisines": [
+        "Polish"
+      ],
+      "restrictedRestaurants": [],
+      "availableTimeRange": [
+        "13:00",
+        "2:00"
+      ],
+      "distances": {
+        "rskqdrf7x": 0.013334447024703093,
+        "i7hzmnb06": 0.01807636621223214
+      }
+    }
+  ]
+}

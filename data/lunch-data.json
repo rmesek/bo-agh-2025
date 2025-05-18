@@ -1,0 +1,228 @@
+{
+  "restaurants": [
+    {
+      "name": "Duża Kawa",
+      "location": [
+        50.06331017328074,
+        19.936689156592184
+      ],
+      "cuisineType": "Italian",
+      "averagePrice": 10,
+      "rating": 5,
+      "openingHours": [
+        "09:00",
+        "14:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 9,
+          "minute": 30,
+          "value": 65
+        },
+        {
+          "hour": 11,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 13,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 50
+        }
+      ],
+      "_id": "l3u1yg293"
+    },
+    {
+      "name": "Mała Kawa",
+      "location": [
+        50.06242170629669,
+        19.94032641160524
+      ],
+      "cuisineType": "Polish",
+      "averagePrice": 20,
+      "rating": 4.3,
+      "openingHours": [
+        "10:00",
+        "17:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 10,
+          "minute": 0,
+          "value": 50
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 95
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 100
+        },
+        {
+          "hour": 17,
+          "minute": 0,
+          "value": 45
+        }
+      ],
+      "_id": "mmws6z2hk"
+    },
+    {
+      "name": "Średnia Kawa",
+      "location": [
+        50.061223282901956,
+        19.93498317405611
+      ],
+      "cuisineType": "Italian",
+      "averagePrice": 15,
+      "rating": 4.8,
+      "openingHours": [
+        "08:00",
+        "14:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 8,
+          "minute": 0,
+          "value": 50
+        },
+        {
+          "hour": 10,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 100
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 80
+        }
+      ],
+      "_id": "v7lodurhv"
+    },
+    {
+      "name": "Kawa i kanapka",
+      "location": [
+        50.06090989713366,
+        19.93900113487273
+      ],
+      "cuisineType": "Polish",
+      "averagePrice": 20,
+      "rating": 1.9,
+      "openingHours": [
+        "09:00",
+        "19:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 9,
+          "minute": 30,
+          "value": 50
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 95
+        },
+        {
+          "hour": 15,
+          "minute": 0,
+          "value": 50
+        },
+        {
+          "hour": 19,
+          "minute": 0,
+          "value": 35
+        }
+      ],
+      "_id": "yjk1ukqj8"
+    }
+  ],
+  "people": [
+    {
+      "_id": "5uai4xzzs",
+      "name": "Wacław",
+      "location": [
+        50.06258011634424,
+        19.931528270215015
+      ],
+      "budget": 30,
+      "preferredCuisines": [
+        "Italian",
+        "Polish"
+      ],
+      "restrictedRestaurants": [
+        "yjk1ukqj8"
+      ],
+      "availableTimeRange": [
+        "09:00",
+        "00:00"
+      ],
+      "distances": {
+        "l3u1yg293": 0.005212267388438235,
+        "mmws6z2hk": 0.008799567356727194,
+        "v7lodurhv": 0.003711786300600731,
+        "yjk1ukqj8": 0.007657240913273439
+      }
+    },
+    {
+      "_id": "hryrxfe72",
+      "name": "Piotr",
+      "location": [
+        50.06171918586884,
+        19.927353884324457
+      ],
+      "budget": 20,
+      "preferredCuisines": [
+        "Italian"
+      ],
+      "restrictedRestaurants": [],
+      "availableTimeRange": [
+        "10:00",
+        "13:00"
+      ],
+      "distances": {
+        "l3u1yg293": 0.009469875883949945,
+        "mmws6z2hk": 0.012991535667588728,
+        "v7lodurhv": 0.007645389562479832,
+        "yjk1ukqj8": 0.01167533269723407
+      }
+    },
+    {
+      "_id": "4wfwfl67u",
+      "name": "Jadwiga",
+      "location": [
+        50.06078936360076,
+        19.946357258976178
+      ],
+      "budget": 15,
+      "preferredCuisines": [
+        "Polish"
+      ],
+      "restrictedRestaurants": [
+        "v7lodurhv"
+      ],
+      "availableTimeRange": [
+        "11:00",
+        "00:00"
+      ],
+      "distances": {
+        "l3u1yg293": 0.00999133049949146,
+        "mmws6z2hk": 0.006247852646188529,
+        "v7lodurhv": 0.011382358882448491,
+        "yjk1ukqj8": 0.0073571115363229795
+      }
+    }
+  ]
+}

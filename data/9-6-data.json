@@ -1,0 +1,586 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC",
+      "location": [
+        50.062566341578275,
+        19.93554159668129
+      ],
+      "cuisineType": "American",
+      "averagePrice": 10,
+      "rating": 3,
+      "openingHours": [
+        "09:00",
+        "23:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 9,
+          "minute": 30,
+          "value": 50
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 100
+        },
+        {
+          "hour": 20,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 22,
+          "minute": 0,
+          "value": 70
+        }
+      ],
+      "_id": "sauezlzy3"
+    },
+    {
+      "name": "Pizza Pi",
+      "location": [
+        50.06209799718156,
+        19.938506061855946
+      ],
+      "cuisineType": "Italian",
+      "averagePrice": 20,
+      "rating": 5,
+      "openingHours": [
+        "09:00",
+        "22:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 9,
+          "minute": 30,
+          "value": 15
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 65
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 55
+        },
+        {
+          "hour": 20,
+          "minute": 0,
+          "value": 65
+        },
+        {
+          "hour": 22,
+          "minute": 0,
+          "value": 50
+        }
+      ],
+      "_id": "49ybycqhb"
+    },
+    {
+      "name": "Indian Pigeon",
+      "location": [
+        50.062593891106275,
+        19.926159756423935
+      ],
+      "cuisineType": "Indian",
+      "averagePrice": 20,
+      "rating": 2,
+      "openingHours": [
+        "11:00",
+        "21:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 9,
+          "minute": 30,
+          "value": 50
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 40
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 65
+        },
+        {
+          "hour": 20,
+          "minute": 0,
+          "value": 40
+        },
+        {
+          "hour": 9,
+          "minute": 0,
+          "value": 50
+        }
+      ],
+      "_id": "uaw3dy01y"
+    },
+    {
+      "name": "Chiński Pies",
+      "location": [
+        50.067414814852604,
+        19.936409714937408
+      ],
+      "cuisineType": "Chinese",
+      "averagePrice": 20,
+      "rating": 3.7,
+      "openingHours": [
+        "09:00",
+        "22:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 9,
+          "minute": 30,
+          "value": 50
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 100
+        },
+        {
+          "hour": 20,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 22,
+          "minute": 0,
+          "value": 50
+        }
+      ],
+      "_id": "lw5h4n3zq"
+    },
+    {
+      "name": "Kawa i Kanapka",
+      "location": [
+        50.06103731796775,
+        19.9454891680488
+      ],
+      "cuisineType": "Polish",
+      "averagePrice": 15,
+      "rating": 5,
+      "openingHours": [
+        "08:00",
+        "21:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 8,
+          "minute": 30,
+          "value": 35
+        },
+        {
+          "hour": 11,
+          "minute": 0,
+          "value": 55
+        },
+        {
+          "hour": 16,
+          "minute": 0,
+          "value": 55
+        },
+        {
+          "hour": 19,
+          "minute": 0,
+          "value": 65
+        },
+        {
+          "hour": 21,
+          "minute": 0,
+          "value": 50
+        }
+      ],
+      "_id": "2syn952j3"
+    },
+    {
+      "name": "Szproty",
+      "location": [
+        50.06116818225586,
+        19.93539207229078
+      ],
+      "cuisineType": "Polish",
+      "averagePrice": 25,
+      "rating": 4.1,
+      "openingHours": [
+        "09:00",
+        "21:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 9,
+          "minute": 30,
+          "value": 30
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 50
+        },
+        {
+          "hour": 15,
+          "minute": 0,
+          "value": 70
+        },
+        {
+          "hour": 17,
+          "minute": 0,
+          "value": 55
+        },
+        {
+          "hour": 21,
+          "minute": 0,
+          "value": 35
+        }
+      ],
+      "_id": "fwmxfmxsa"
+    },
+    {
+      "name": "Kebab Buda",
+      "location": [
+        50.06997659430595,
+        19.91430539238399
+      ],
+      "cuisineType": "Polish",
+      "averagePrice": 10,
+      "rating": 3.4,
+      "openingHours": [
+        "09:00",
+        "23:30"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 9,
+          "minute": 30,
+          "value": 20
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 30
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 35
+        },
+        {
+          "hour": 20,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 23,
+          "minute": 0,
+          "value": 95
+        }
+      ],
+      "_id": "th6mawf5a"
+    },
+    {
+      "name": "Surowa Ryba",
+      "location": [
+        50.061330040223666,
+        19.94329540518703
+      ],
+      "cuisineType": "Japanese",
+      "averagePrice": 40,
+      "rating": 3.6,
+      "openingHours": [
+        "13:00",
+        "21:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 13,
+          "minute": 30,
+          "value": 30
+        },
+        {
+          "hour": 15,
+          "minute": 0,
+          "value": 70
+        },
+        {
+          "hour": 17,
+          "minute": 0,
+          "value": 100
+        },
+        {
+          "hour": 19,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 21,
+          "minute": 0,
+          "value": 20
+        }
+      ],
+      "_id": "xngtwcuzw"
+    },
+    {
+      "name": "Steki nie dla beki",
+      "location": [
+        50.05733164416924,
+        19.944425553143567
+      ],
+      "cuisineType": "American",
+      "averagePrice": 40,
+      "rating": 5,
+      "openingHours": [
+        "10:00",
+        "22:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 10,
+          "minute": 30,
+          "value": 10
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 20
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 35
+        },
+        {
+          "hour": 16,
+          "minute": 0,
+          "value": 70
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 19,
+          "minute": 0,
+          "value": 55
+        }
+      ],
+      "_id": "97ou51idz"
+    }
+  ],
+  "people": [
+    {
+      "_id": "pgt09oxmk",
+      "name": "Adam Małysz",
+      "location": [
+        50.09337748421954,
+        19.93863723091832
+      ],
+      "budget": 45,
+      "preferredCuisines": [
+        "American",
+        "Polish",
+        "Indian",
+        "Japanese"
+      ],
+      "restrictedRestaurants": [
+        "sauezlzy3",
+        "th6mawf5a"
+      ],
+      "availableTimeRange": [
+        "11:00",
+        "16:00"
+      ],
+      "distances": {
+        "sauezlzy3": 0.03096626329071186,
+        "49ybycqhb": 0.03127976206242513,
+        "uaw3dy01y": 0.03321621553881439,
+        "lw5h4n3zq": 0.026058051118644995,
+        "2syn952j3": 0.03305806097812037,
+        "fwmxfmxsa": 0.03237236765368131,
+        "th6mawf5a": 0.03375855469667809,
+        "xngtwcuzw": 0.03238421303947628,
+        "97ou51idz": 0.03650763288841164
+      }
+    },
+    {
+      "_id": "yzbjvbol0",
+      "name": "Bolesław Krak",
+      "location": [
+        50.05989396216115,
+        19.939098043814678
+      ],
+      "budget": 90,
+      "preferredCuisines": [
+        "Italian",
+        "Japanese",
+        "Chinese",
+        "Indian",
+        "Polish",
+        "American"
+      ],
+      "restrictedRestaurants": [],
+      "availableTimeRange": [
+        "11:00",
+        "15:00"
+      ],
+      "distances": {
+        "sauezlzy3": 0.0044485871871492826,
+        "49ybycqhb": 0.002282150961410475,
+        "uaw3dy01y": 0.013216992733378431,
+        "lw5h4n3zq": 0.007986885335282436,
+        "2syn952j3": 0.006492590505835068,
+        "fwmxfmxsa": 0.003918910790730333,
+        "th6mawf5a": 0.026764436028635392,
+        "xngtwcuzw": 0.004436232939303251,
+        "97ou51idz": 0.005911668896434268
+      }
+    },
+    {
+      "_id": "4gnhxc6i3",
+      "name": "Żadek Rak",
+      "location": [
+        50.07344717399222,
+        19.916134986699518
+      ],
+      "budget": 30,
+      "preferredCuisines": [
+        "American",
+        "Japanese",
+        "Chinese",
+        "Italian",
+        "Polish"
+      ],
+      "restrictedRestaurants": [
+        "sauezlzy3"
+      ],
+      "availableTimeRange": [
+        "11:00",
+        "18:00"
+      ],
+      "distances": {
+        "sauezlzy3": 0.02224879828226645,
+        "49ybycqhb": 0.025085231071971744,
+        "uaw3dy01y": 0.014774632226555525,
+        "lw5h4n3zq": 0.021153107618258345,
+        "2syn952j3": 0.03186961702365554,
+        "fwmxfmxsa": 0.0228387605515453,
+        "th6mawf5a": 0.003923307114944803,
+        "xngtwcuzw": 0.029740767696578123,
+        "97ou51idz": 0.03255866169240701
+      }
+    },
+    {
+      "_id": "8fxj9x493",
+      "name": "Terence Tao",
+      "location": [
+        50.07377769229125,
+        19.967774958381664
+      ],
+      "budget": 35,
+      "preferredCuisines": [
+        "American",
+        "Indian",
+        "Polish",
+        "Italian",
+        "Chinese"
+      ],
+      "restrictedRestaurants": [
+        "lw5h4n3zq"
+      ],
+      "availableTimeRange": [
+        "11:00",
+        "14:00"
+      ],
+      "distances": {
+        "sauezlzy3": 0.03412746681657619,
+        "49ybycqhb": 0.031513228677628784,
+        "uaw3dy01y": 0.04309179089951657,
+        "lw5h4n3zq": 0.03200413575800302,
+        "2syn952j3": 0.02567048088103026,
+        "fwmxfmxsa": 0.034751274147974215,
+        "th6mawf5a": 0.0536045038581034,
+        "xngtwcuzw": 0.02746256664269758,
+        "97ou51idz": 0.028559888371708364
+      }
+    },
+    {
+      "_id": "4r1eldhfw",
+      "name": "Bogdan Bania",
+      "location": [
+        50.05774493052071,
+        19.938790469532595
+      ],
+      "budget": 25,
+      "preferredCuisines": [
+        "American",
+        "Indian",
+        "Polish"
+      ],
+      "restrictedRestaurants": [],
+      "availableTimeRange": [
+        "13:00",
+        "17:00"
+      ],
+      "distances": {
+        "sauezlzy3": 0.00581387817123277,
+        "49ybycqhb": 0.004362347656975449,
+        "uaw3dy01y": 0.013529498600968418,
+        "lw5h4n3zq": 0.0099586472693168,
+        "2syn952j3": 0.00746407240803628,
+        "fwmxfmxsa": 0.0048236662669976825,
+        "th6mawf5a": 0.027370286844097327,
+        "xngtwcuzw": 0.005757382811035619,
+        "97ou51idz": 0.00565021883744004
+      }
+    },
+    {
+      "_id": "bhl1fagjx",
+      "name": "Emmy Noether",
+      "location": [
+        50.05049812715438,
+        19.93965571862625
+      ],
+      "budget": 55,
+      "preferredCuisines": [
+        "Polish",
+        "Japanese"
+      ],
+      "restrictedRestaurants": [
+        "sauezlzy3",
+        "49ybycqhb"
+      ],
+      "availableTimeRange": [
+        "11:00",
+        "14:00"
+      ],
+      "distances": {
+        "sauezlzy3": 0.01275020779278433,
+        "49ybycqhb": 0.011656701734926656,
+        "uaw3dy01y": 0.0181231482184055,
+        "lw5h4n3zq": 0.01722529717094375,
+        "2syn952j3": 0.01204589868653158,
+        "fwmxfmxsa": 0.011490376666701265,
+        "th6mawf5a": 0.03196951240109496,
+        "xngtwcuzw": 0.011427058195413549,
+        "97ou51idz": 0.008333563230395937
+      }
+    }
+  ]
+}

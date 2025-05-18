@@ -1,0 +1,462 @@
+{
+  "restaurants": [
+    {
+      "name": "Francuski Tost",
+      "location": [
+        50.0673872680934,
+        19.936728326143108
+      ],
+      "cuisineType": "French",
+      "averagePrice": 20,
+      "rating": 4,
+      "openingHours": [
+        "06:00",
+        "13:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 6,
+          "minute": 0,
+          "value": 25
+        },
+        {
+          "hour": 7,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 8,
+          "minute": 0,
+          "value": 100
+        },
+        {
+          "hour": 9,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 10,
+          "minute": 0,
+          "value": 70
+        },
+        {
+          "hour": 11,
+          "minute": 0,
+          "value": 35
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 20
+        },
+        {
+          "hour": 13,
+          "minute": 0,
+          "value": 10
+        }
+      ],
+      "_id": "zrn7n78yl"
+    },
+    {
+      "name": "Wenecja Pizza Pasta",
+      "location": [
+        50.05934293758402,
+        19.955257512700562
+      ],
+      "cuisineType": "Italian",
+      "averagePrice": 45,
+      "rating": 5,
+      "openingHours": [
+        "13:00",
+        "23:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 13,
+          "minute": 0,
+          "value": 10
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 30
+        },
+        {
+          "hour": 15,
+          "minute": 0,
+          "value": 75
+        },
+        {
+          "hour": 16,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 17,
+          "minute": 0,
+          "value": 40
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 65
+        },
+        {
+          "hour": 19,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 20,
+          "minute": 0,
+          "value": 100
+        },
+        {
+          "hour": 21,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 22,
+          "minute": 0,
+          "value": 50
+        },
+        {
+          "hour": 23,
+          "minute": 0,
+          "value": 10
+        }
+      ],
+      "_id": "lesq6e340"
+    },
+    {
+      "name": "Stołówka Domowa",
+      "location": [
+        50.06793820027185,
+        19.927635299406575
+      ],
+      "cuisineType": "Polish",
+      "averagePrice": 15,
+      "rating": 3,
+      "openingHours": [
+        "10:00",
+        "16:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 10,
+          "minute": 0,
+          "value": 10
+        },
+        {
+          "hour": 11,
+          "minute": 0,
+          "value": 20
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 70
+        },
+        {
+          "hour": 13,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 90
+        },
+        {
+          "hour": 15,
+          "minute": 0,
+          "value": 50
+        },
+        {
+          "hour": 16,
+          "minute": 0,
+          "value": 20
+        }
+      ],
+      "_id": "cway3dtra"
+    },
+    {
+      "name": "Pizza w Nocy",
+      "location": [
+        50.06297958283694,
+        19.93535579380548
+      ],
+      "cuisineType": "Italian",
+      "averagePrice": 35,
+      "rating": 4,
+      "openingHours": [
+        "22:00",
+        "03:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 22,
+          "minute": 30,
+          "value": 20
+        },
+        {
+          "hour": 23,
+          "minute": 0,
+          "value": 20
+        },
+        {
+          "hour": 0,
+          "minute": 0,
+          "value": 30
+        },
+        {
+          "hour": 1,
+          "minute": 0,
+          "value": 30
+        },
+        {
+          "hour": 2,
+          "minute": 0,
+          "value": 20
+        },
+        {
+          "hour": 3,
+          "minute": 0,
+          "value": 20
+        }
+      ],
+      "_id": "3pk4xc1wg"
+    },
+    {
+      "name": "Meksykańskie Mięsa",
+      "location": [
+        50.07410820831213,
+        19.941532189324676
+      ],
+      "cuisineType": "Mexican",
+      "averagePrice": 30,
+      "rating": 5,
+      "openingHours": [
+        "13:00",
+        "22:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 13,
+          "minute": 0,
+          "value": 20
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 40
+        },
+        {
+          "hour": 15,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 16,
+          "minute": 0,
+          "value": 95
+        },
+        {
+          "hour": 17,
+          "minute": 0,
+          "value": 75
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 30
+        },
+        {
+          "hour": 19,
+          "minute": 0,
+          "value": 75
+        },
+        {
+          "hour": 20,
+          "minute": 0,
+          "value": 85
+        },
+        {
+          "hour": 21,
+          "minute": 0,
+          "value": 60
+        },
+        {
+          "hour": 22,
+          "minute": 0,
+          "value": 35
+        }
+      ],
+      "_id": "x2ei9aj7d"
+    },
+    {
+      "name": "Chiński Express",
+      "location": [
+        50.06121639532464,
+        19.941017489698076
+      ],
+      "cuisineType": "Chinese",
+      "averagePrice": 15,
+      "rating": 4,
+      "openingHours": [
+        "10:00",
+        "18:00"
+      ],
+      "trafficPattern": [
+        {
+          "hour": 10,
+          "minute": 0,
+          "value": 25
+        },
+        {
+          "hour": 11,
+          "minute": 0,
+          "value": 30
+        },
+        {
+          "hour": 12,
+          "minute": 0,
+          "value": 65
+        },
+        {
+          "hour": 13,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 14,
+          "minute": 0,
+          "value": 55
+        },
+        {
+          "hour": 15,
+          "minute": 0,
+          "value": 65
+        },
+        {
+          "hour": 16,
+          "minute": 0,
+          "value": 75
+        },
+        {
+          "hour": 16,
+          "minute": 0,
+          "value": 80
+        },
+        {
+          "hour": 17,
+          "minute": 0,
+          "value": 85
+        },
+        {
+          "hour": 18,
+          "minute": 0,
+          "value": 60
+        }
+      ],
+      "_id": "b7fr0kpxu"
+    }
+  ],
+  "people": [
+    {
+      "_id": "eyzftosvj",
+      "name": "Michał",
+      "location": [
+        50.07697258506332,
+        19.930895063708345
+      ],
+      "budget": 40,
+      "preferredCuisines": [
+        "Polish",
+        "Chinese"
+      ],
+      "restrictedRestaurants": [],
+      "availableTimeRange": [
+        "12:00",
+        "20:00"
+      ],
+      "distances": {}
+    },
+    {
+      "_id": "vof3x3rc4",
+      "name": "Piotr",
+      "location": [
+        50.07873519339816,
+        19.948909550639193
+      ],
+      "budget": 50,
+      "preferredCuisines": [
+        "Italian"
+      ],
+      "restrictedRestaurants": [],
+      "availableTimeRange": [
+        "14:00",
+        "19:00"
+      ],
+      "distances": {}
+    },
+    {
+      "_id": "zzu4maa2i",
+      "name": "Natalia",
+      "location": [
+        50.07476923351935,
+        19.929694097912932
+      ],
+      "budget": 35,
+      "preferredCuisines": [
+        "Italian"
+      ],
+      "restrictedRestaurants": [
+        "3pk4xc1wg"
+      ],
+      "availableTimeRange": [
+        "13:30",
+        "19:30"
+      ],
+      "distances": {}
+    },
+    {
+      "_id": "y7n01629y",
+      "name": "Weronika",
+      "location": [
+        50.076201423540226,
+        19.933983261467898
+      ],
+      "budget": 40,
+      "preferredCuisines": [
+        "Mexican",
+        "Italian"
+      ],
+      "restrictedRestaurants": [],
+      "availableTimeRange": [
+        "15:00",
+        "01:00"
+      ],
+      "distances": {}
+    },
+    {
+      "_id": "t5crl7f2v",
+      "name": "Adam",
+      "location": [
+        50.05559580261758,
+        19.96417897289488
+      ],
+      "budget": 50,
+      "preferredCuisines": [
+        "Italian"
+      ],
+      "restrictedRestaurants": [],
+      "availableTimeRange": [
+        "15:00",
+        "19:00"
+      ],
+      "distances": {}
+    }
+  ]
+}
