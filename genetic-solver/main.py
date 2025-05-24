@@ -342,5 +342,5 @@ def main(json_path: str | None = None):
 
 
 if __name__ == "__main__":
-    DATA_PATH = r"data/6-3-simple-data.json"
-    main(json_path=None)
+    DATA_PATH = r"data-benchmark/"
+    main(json_path=DATA_PATH)
