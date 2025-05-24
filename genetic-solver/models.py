@@ -56,7 +56,7 @@ class Restaurant:
 
     def __post_init__(self):
         validate_coordinates(self.location)
-        validate_range(self.average_price, 0, 100, "Average price")
+        validate_range(self.average_price, 0, 200, "Average price")
         validate_range(self.rating, 0, 5, "Rating")
         validate_time(self.available_hours[0])
         validate_time(self.available_hours[1])
@@ -109,7 +109,7 @@ class Person:
 
     def __post_init__(self):
         validate_coordinates(self.location)
-        validate_range(self.budget, 0, 100, "Budget")
+        validate_range(self.budget, 0, 200, "Budget")
         validate_time(self.available_hours[0])
         validate_time(self.available_hours[1])
 
